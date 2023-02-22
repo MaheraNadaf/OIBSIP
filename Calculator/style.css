@@ -6,9 +6,8 @@
     outline: none;
 }
 body{
-    background-image: url('asd.jpg');
-    background-size:cover;
-    background-repeat: no-repeat;
+background: rgb(247,105,235);
+background: radial-gradient(circle, rgba(247,105,235,1) 0%, rgba(148,161,233,1) 100%);
 }
 .nav{
     text-align: center;
@@ -65,3 +64,4 @@ button{
     box-shadow: -5px -5px 12px #ffff, 
                 5px 5px 12px rgba(0,0,0,.16);
 }
+
